@@ -156,7 +156,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_01_33130235_DU.pdf',
+        download: 'downloads/33130235_CF1_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -191,7 +191,7 @@ export default {
     {
       termino: 'ACNUR',
       significado:
-        'Alto Comisionado de las Naciones Unidas para los Refugiados. Organismo internacional que protege y asiste a las personas desplazadas y refugiadas en el mundo.',
+        ' Alto Comisionado de las Naciones Unidas para los Refugiados. Organismo internacional que protege y asiste a las personas desplazadas y refugiadas en el mundo.',
     },
     {
       termino: 'Atención psicosocial',

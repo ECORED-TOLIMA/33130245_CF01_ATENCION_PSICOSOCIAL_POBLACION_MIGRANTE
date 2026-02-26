@@ -139,7 +139,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Estatuto Temporal de Protección (Decreto 216 de 2021)
     p(data-aos="fade-down") El Estatuto Temporal de Protección para Migrantes Venezolanos, establecido mediante el Decreto 216 de 2021 del 1 de marzo de 2021, constituye una de las medidas más relevantes adoptadas por el Estado colombiano para regularizar la situación de migrantes provenientes de Venezuela. Busca garantizar su acceso a derechos fundamentales y promover su integración social, económica y cultural (Presidencia de la República de Colombia, 2021).
-    p.mb-5(data-aos="fade-down") El artículo 1 define su objeto de la siguiente manera:
+    p.mb-5(data-aos="fade-down") El Artículo 1 define su objeto de la siguiente manera:
     .row.justify-content-center
       .col-lg-10.col-12
         .bloque-texto-f.color-secundario.pt-4.px-5.mb-5
@@ -148,7 +148,7 @@
             i.fas.fa-quote-right
           h4.text-regular.bloque-texto-f__texto Crear el Estatuto Temporal de Protección para Migrantes Venezolanos bajo régimen de protección temporal, con el fin de brindar una respuesta humanitaria, ordenada y segura al fenómeno migratorio proveniente de la República Bolivariana de Venezuela, y permitir el tránsito hacia un régimen migratorio ordinario.
           .bloque-texto-f__autor.mb-3
-            h3.mb-0 Presidencia de la República de Colombia, 2021, art. 1
+            h3.mb-0 Presidencia de la República de Colombia, 2021, Art. 1
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/temas/tema3/img13.svg', alt='Imagen decorativa')
@@ -176,13 +176,13 @@
         p.text-center.text-bold(data-aos="fade-down") Participar en programas sociales del Estado.
     .row.justify-content-center.mb-0
       .col-lg-10.col-12
-        p(data-aos="fade-down") Según el artículo 4 del decreto, la vigencia del ETPV es de diez (10) años, tiempo durante el cual las personas favorecidas pueden hacer la transición hacia un régimen migratorio ordinario, conforme a los trámites establecidos por el Estado (Presidencia de la República de Colombia, 2021, art. 4).
+        p(data-aos="fade-down") Según el Artículo 4 del decreto, la vigencia del ETPV es de diez (10) años, tiempo durante el cual las personas favorecidas pueden hacer la transición hacia un régimen migratorio ordinario, conforme a los trámites establecidos por el Estado (Presidencia de la República de Colombia, 2021, Art. 4).
         p.mb-0(data-aos="fade-down") Desde una perspectiva psicosocial, el ETPV trasciende lo administrativo, ofrece estabilidad, seguridad jurídica y una base sólida para la reconstrucción del proyecto de vida. Esta protección favorece el bienestar emocional, facilita el acceso a redes de apoyo, promueve la integración y contribuye a la dignidad de las personas migrantes.
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Ley del Retorno (Ley 1565 de 2012)
     p(data-aos="fade-down") La Ley del Retorno tiene como propósito facilitar la reintegración social, económica y emocional de los colombianos que regresan del exterior de manera voluntaria, reconociendo este proceso como un fenómeno migratorio que requiere acompañamiento integral y enfoque diferencial (Congreso de la República de Colombia, 2012).
-    p.mb-5(data-aos="fade-down") El artículo 1 define el objeto de esta ley al señalar que:
+    p.mb-5(data-aos="fade-down") El Artículo 1 define el objeto de esta ley al señalar que:
     .row.justify-content-center.mb-5
       .col-lg-10.col-12
         .bloque-texto-f.color-secundario.pt-4.px-5
@@ -191,7 +191,7 @@
             i.fas.fa-quote-right
           h4.text-regular.bloque-texto-f__texto La presente ley tiene por objeto crear y regular el Sistema Nacional de Atención y Reintegración para el Retorno, con el fin de garantizar la atención, orientación y acompañamiento a los colombianos que deciden regresar voluntariamente al país.
           .bloque-texto-f__autor.mb-3
-            h3.mb-0 Congreso de la República de Colombia, 2012, art. 1
+            h3.mb-0 Congreso de la República de Colombia, 2012, Art. 1
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/temas/tema3/img18.svg', alt='Imagen decorativa')
@@ -262,7 +262,7 @@
       .col-lg-auto.col-9.titulo01(style="z-index:1")
         .p-2
           h3.mb-0.ms-3 ¿Qué es el Sistema Nacional de Atención y Reintegración para el Retorno?
-    p.mb-5(data-aos="fade-down") El artículo 1 crea este Sistema como el mecanismo de coordinación entre instituciones públicas para atender las necesidades de la población retornada. Se estructura a través de:
+    p.mb-5(data-aos="fade-down") El Artículo 1 crea este Sistema como el mecanismo de coordinación entre instituciones públicas para atender las necesidades de la población retornada. Se estructura a través de:
     .row.justify-content-center.mb-4
       .col-12
         .row.justify-content-center
@@ -302,7 +302,7 @@
                 .cajon.cajon.C01.p-3.h-100
                   h4 Entidades territoriales
                   p integración social y vinculación comunitaria.
-    p(data-aos="fade-down") El artículo 6 define a la persona retornada como aquella que, tras residir en el exterior, fija nuevamente su residencia en Colombia, lo cual habilita el acceso a los beneficios previstos (Congreso de la República de Colombia, 2012, art. 6).
+    p(data-aos="fade-down") El Artículo 6 define a la persona retornada como aquella que, tras residir en el exterior, fija nuevamente su residencia en Colombia, lo cual habilita el acceso a los beneficios previstos (Congreso de la República de Colombia, 2012, Art. 6).
     p.mb-5(data-aos="fade-down") Desde el enfoque psicosocial en el retorno, la norma reconoce que la vuelta al país implica un proceso de readaptación emocional y social, ante posibles experiencias de:
     .row.justify-content-center.mb-0
       .col-lg-10.col-12
@@ -334,7 +334,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Código de Infancia y Adolescencia (Ley 1098 de 2006)
     p(data-aos="fade-down") Es considerado como el marco normativo que protege integralmente los derechos de todos los niños, niñas y adolescentes en Colombia, incluyendo aquellos que se encuentran en situación de movilidad humana. Esta Ley se basa en los principios de la Convención sobre los Derechos del Niño (1989) y promueve la garantía, el restablecimiento y la exigibilidad de los derechos de la niñez, sin discriminación alguna (Congreso de la República de Colombia, 2006).
-    p.mb-5(data-aos="fade-down") El artículo 1 define su objeto de manera clara: 
+    p.mb-5(data-aos="fade-down") El Artículo 1 define su objeto de manera clara: 
     .row.justify-content-center
       .col-lg-10.col-12
         .bloque-texto-f.color-secundario.pt-4.px-5.mb-5
@@ -343,11 +343,11 @@
             i.fas.fa-quote-right
           h4.text-regular.bloque-texto-f__texto La presente ley tiene por objeto establecer normas sustantivas y procesales para la protección integral de los niños, las niñas y los adolescentes, garantizando el ejercicio de sus derechos y libertades
           .bloque-texto-f__autor.mb-3
-            h3.mb-0 Congreso de la República de Colombia, 2006, art. 1
+            h3.mb-0 Congreso de la República de Colombia, 2006, Art. 1
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/temas/tema3/img25.svg', alt='Imagen decorativa')
-    p(data-aos="fade-down") El artículo 7 determina que debe prevalecer el interés superior del niño en cualquier decisión o actuación pública o privada que afecte sus derechos, lo que implica que, en contextos de migración o retorno, la atención, acompañamiento o traslado de menores se debe realizar priorizando su bienestar físico, emocional y social (Congreso de la República de Colombia, 2006, art. 7).
+    p(data-aos="fade-down") El Artículo 7 determina que debe prevalecer el interés superior del niño en cualquier decisión o actuación pública o privada que afecte sus derechos, lo que implica que, en contextos de migración o retorno, la atención, acompañamiento o traslado de menores se debe realizar priorizando su bienestar físico, emocional y social (Congreso de la República de Colombia, 2006, Art. 7).
     p.mb-5(data-aos="fade-down") Desde este marco legislativo se promueve un enfoque de protección integral, que orienta la actuación del Estado frente a niños, niñas y adolescentes migrantes o retornados mediante acciones como:
     .BG04.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center(data-aos="fade-down")
@@ -387,7 +387,7 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.5 Política Nacional de Salud Mental (Ley 2460) y lineamientos de atención psicosocial (Decreto 0729 de 2025)
     p(data-aos="fade-down") Mediante esta Ley se adopta la Política Nacional de Salud Mental en Colombia, y el Decreto 0729 de 2025 reglamenta los lineamientos para la atención psicosocial con enfoque diferencial. Estas normas consolidan un marco legal que reconoce la salud mental como un derecho fundamental y una condición esencial para el bienestar integral de las personas y las comunidades (Congreso de la República de Colombia, 2025).
-    p.mb-5(data-aos="fade-down") El artículo 1 establece: 
+    p.mb-5(data-aos="fade-down") El Artículo 1 establece: 
     .row.justify-content-center
       .col-lg-10.col-12
         .bloque-texto-f.color-secundario.pt-4.px-5.mb-5
@@ -396,12 +396,12 @@
             i.fas.fa-quote-right
           h4.text-regular.bloque-texto-f__texto La presente ley tiene por objeto establecer los principios, objetivos, estrategias e instrumentos para la promoción, prevención, atención y rehabilitación en salud mental, así como la garantía del acceso integral y equitativo a los servicios de salud mental en el territorio nacional.
           .bloque-texto-f__autor.mb-3
-            h3.mb-0 Congreso de la República de Colombia, 2025, art. 1
+            h3.mb-0 Congreso de la República de Colombia, 2025, Art. 1
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/temas/tema3/img32.svg', alt='Imagen decorativa')
     p(data-aos="fade-down") La Política Nacional de Salud Mental promueve un modelo comunitario e integral que articula los sectores de salud, educación, trabajo y protección social, priorizando poblaciones vulnerables como las personas migrantes, retornadas y comunidades de acogida, quienes enfrentan factores de riesgo asociados al desarraigo, la pérdida, la adaptación cultural y la exclusión social (Ministerio de Salud y Protección Social, 2025).
-    p.mb-0(data-aos="fade-down") El Decreto 0729 de 2025, en su artículo 3, define los lineamientos técnicos y operativos para implementar la política en los territorios. Estos lineamientos se organizan en los siguientes componentes:
+    p.mb-0(data-aos="fade-down") El Decreto 0729 de 2025, en su Artículo 3, define los lineamientos técnicos y operativos para implementar la política en los territorios. Estos lineamientos se organizan en los siguientes componentes:
     .row.justify-content-center.BG05.align-items-center.pt-5.pb-5
       .col-lg-11.col-12
         .row.justify-content-center
@@ -430,7 +430,7 @@
           .col-lg-3.col-8.col-md-7.order-lg-1.order-1
             figure
               img(src='@/assets/curso/temas/tema3/img33.svg', alt='Imagen decorativa')
-    p(data-aos="fade-down") Las entidades territoriales deben incluir estas estrategias en sus planes de salud, garantizando cobertura y seguimiento especialmente a niños, adolescentes, mujeres migrantes y víctimas del conflicto armado (Ministerio de Salud y Protección Social, 2025, art. 3).
+    p(data-aos="fade-down") Las entidades territoriales deben incluir estas estrategias en sus planes de salud, garantizando cobertura y seguimiento especialmente a niños, adolescentes, mujeres migrantes y víctimas del conflicto armado (Ministerio de Salud y Protección Social, 2025, Art. 3).
     p.mb-5(data-aos="fade-down") Desde el enfoque psicosocial, esta política reconoce que la salud mental implica mucho más que tratar trastornos. Para la población migrante y retornada, incluye:
     .row.mb-5(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4

@@ -16,7 +16,7 @@ export default {
       tema: 'tema_actividad_didactica',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo</b>: lea cada enunciado relacionado con los temas desarrollados en el componente formativo y seleccione la opción que considere correcta, de acuerdo con su comprensión del marco normativo y psicosocial de la migración en Colombia.',
+        '<b>Objetivo</b>: evaluar la comprensión de los fundamentos normativos y psicosociales que orientan la atención integral a personas migrantes, retornadas y comunidades de acogida, fortaleciendo el reconocimiento de sus derechos y del marco institucional vigente en Colombia.',
       barajarPreguntas: true,
       preguntas: [
         {
