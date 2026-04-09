@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Group_1118715" data-name="Group 1118715" transform="translate(-269 -958)">
+    <circle id="Ellipse_5614" data-name="Ellipse 5614" cx="35" cy="35" r="35" transform="translate(269 958)" fill="#fff"/>
+    <g id="maletin" transform="translate(283 972)">
+      <path id="Path_609231" data-name="Path 609231" d="M33.931,7.143H31.967A8.945,8.945,0,0,0,23.216,0H19.644a8.945,8.945,0,0,0-8.751,7.143H8.929A8.94,8.94,0,0,0,0,16.073V21.43H42.86V16.073a8.94,8.94,0,0,0-8.929-8.929Zm-19.316,0a5.358,5.358,0,0,1,5.029-3.572h3.572a5.358,5.358,0,0,1,5.029,3.572Z" fill="#953c2d"/>
+      <path id="Path_609232" data-name="Path 609232" d="M23.216,15.786a1.786,1.786,0,1,1-3.572,0V14H0v8.929a8.94,8.94,0,0,0,8.929,8.929h25a8.94,8.94,0,0,0,8.929-8.929V14H23.216Z" transform="translate(0 11.002)" fill="#953c2d"/>
+    </g>
+  </g>
+</svg>
